@@ -1,0 +1,11 @@
+<base>
+[caps]>[lwin]
+
+<keypad>
+
+<function1>
+{p}>{x1}{prnt}
+
+<function2>
+
+<function3>
