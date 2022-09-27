@@ -4,7 +4,7 @@
 <keypad>
 
 <function1>
-{p}>{x1}{prnt}
+[p]>[prnt]
 
 <function2>
 
